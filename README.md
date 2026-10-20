@@ -55,14 +55,3 @@ peter-portfolio/
    - `--hover-outline` — button hover outline color (default: `#a8262c`)
 
 4. **Form backend** — Update the `#contact-form` submit handler in `js/script.js` to send data to your preferred endpoint (Formspree, EmailJS, Netlify Forms, etc.).
-
-## Local Development
-
-Just open `index.html` in your browser. No install or build step needed:
-
-```bash
-# Option 1: double-click index.html
-# Option 2: use a local server (e.g., Python)
-python -m http.server 8000
-# then visit http://localhost:8000
-```
